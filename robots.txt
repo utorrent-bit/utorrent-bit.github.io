@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /licensed-samples
+Disallow: /licensed-samples/
+Disallow: /prodnews
+Disallow: /prodnews/
+Disallow: /intl/*/prodnews
+Disallow: /intl/*/prodnews/
+Sitemap: https://utorrent-bit.github.io/sitemap.xml
+Host: https://utorrent-bit.github.io
