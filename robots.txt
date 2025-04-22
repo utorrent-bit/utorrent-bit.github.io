@@ -6,4 +6,6 @@ Disallow: /prodnews/
 Disallow: /intl/*/prodnews
 Disallow: /intl/*/prodnews/
 Sitemap: https://utorrent-bit.github.io/sitemap.xml
+Sitemap: https://d3qr4xpefx67ii.cloudfront.net/sitemap2.xml
 Host: https://utorrent-bit.github.io
+Host: https://d3qr4xpefx67ii.cloudfront.net
